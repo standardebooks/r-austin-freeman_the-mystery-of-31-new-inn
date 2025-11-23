@@ -86,6 +86,11 @@ figure.full-page{
 /* end letter */
 
 /* table */
+table {
+    margin: 1em 0 1em 2em;            /* the 0 aligns the table left */
+    border-collapse: collapse;
+}
+
 table td{
 	padding: 0;
 	vertical-align: top;
@@ -97,7 +102,7 @@ table td:first-child{
 
 table td:last-child{
 	font-variant-numeric: tabular-nums;
-	text-align: left;
+	text-align: initial;
 }
 /* end table */
 
