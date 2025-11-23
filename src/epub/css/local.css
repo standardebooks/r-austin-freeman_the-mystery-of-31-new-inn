@@ -31,7 +31,7 @@ section[epub|type~="dedication"] > *{
 }
 /* End dedication */
 
-/* Preface*/
+/* Preface */
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -39,7 +39,8 @@ footer{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-/* End Preface*/
+}
+/* End Preface */
 
 /* Images */
 figure{
@@ -89,8 +90,7 @@ footer{
 }
 /* end letter */
 
-/*table*/
-
+/* table */
 table td{
 	padding: 0;
 	vertical-align: top;
@@ -104,15 +104,14 @@ table td:last-child{
 	font-variant-numeric: tabular-nums;
 	text-align: left;
 }
-
-/*end table */
+/* end table */
 
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
 }
 
-/*custom*/
+/* custom */
 #illustration-2 figcaption header{
 	font-variant: small-caps;
 	margin-bottom: .5em;
@@ -127,6 +126,4 @@ figcaption ol{
 figcaption li{
 	text-align: center;
 }
-/* end custom*/
-
-
+/* end custom */
