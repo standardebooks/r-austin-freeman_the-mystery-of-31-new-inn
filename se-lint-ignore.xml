@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-14.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>There is a closing ” on line 54.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
