@@ -91,22 +91,18 @@ footer{
 
 /*table*/
 
-table {
-    margin: 1em 0;            
-    border-collapse: collapse;
-}
-table td {
-    vertical-align: top;
-    padding: 0;
+table td{
+	padding: 0;
+	vertical-align: top;
 }
 
-table td:first-child {
-    padding-right: 0.5em; 
+table td:first-child{
+	padding-right: .5em;
 }
 
-table td:last-child {
-    font-variant-numeric: tabular-nums;
-    text-align: left;        
+table td:last-child{
+	font-variant-numeric: tabular-nums;
+	text-align: left;
 }
 
 /*end table */
@@ -122,14 +118,14 @@ table td:last-child {
 	margin-bottom: .5em;
 }
 
-figcaption ol {
-    list-style: none;
-    padding-left: 0;   
-    margin-left: 0;
+figcaption ol{
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
 }
 
-figcaption li {
-    text-align: center; 
+figcaption li{
+	text-align: center;
 }
 /* end custom*/
 
