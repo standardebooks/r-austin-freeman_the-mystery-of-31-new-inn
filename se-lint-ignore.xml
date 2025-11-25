@@ -6,4 +6,10 @@
 			<reason>There is a closing ” on line 54.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>y-019</code>
+			<reason>There is an opening “ on line 99.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
