@@ -128,10 +128,6 @@ table td:last-child p:first-child{
 	display: none;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 /* Lists */
 ul{
 	list-style: none;
