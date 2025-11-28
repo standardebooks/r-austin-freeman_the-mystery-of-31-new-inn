@@ -36,7 +36,6 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
-
 /* End Preface */
 
 /* Images */
@@ -113,7 +112,7 @@ table td:last-child p:first-child{
 }
 /* End table */
 
-/* Verse*/
+/* Verse */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -128,7 +127,7 @@ table td:last-child p:first-child{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-/* End verse*/
+/* End verse */
 
 /* Lists */
 ul{
@@ -144,7 +143,7 @@ ol{
 
 @supports(display: table){
 	ol{
-	display: table;
+		display: table;
 	}
 }
 
