@@ -68,11 +68,10 @@ figure.full-page{
 [epub|type~="z3998:letter"] header p:first-child{
 	font-variant: small-caps;
 	margin: 1em;
-	text-align: center;
 }
 
 [epub|type~="z3998:letter"] header p:last-child{
-	text-align: right;
+	text-align: initial;
 }
 
 [epub|type~="z3998:letter"] header + p{
@@ -135,19 +134,19 @@ ul{
 	padding: 0;
 }
 
-ol{
+#chapter-8 ol{
 	list-style: upper-alpha;
 	margin: 0 auto;
 	padding: 0;
 }
 
 @supports(display: table){
-	ol{
+	#chapter-8 ol{
 		display: table;
 	}
 }
 
-ol li{
+#chapter-8 ol li{
 	text-align: initial;
 }
 /* End lists */
