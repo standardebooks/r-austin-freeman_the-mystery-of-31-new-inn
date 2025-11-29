@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/r-austin-freeman/the-mystery-of-31-new-inn</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-11-29T20:36:02Z</dc:date>
+		<meta property="dcterms:modified">2025-11-29T20:36:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,17 +50,16 @@
 		<meta id="collection-1" property="belongs-to-collection">Doctor Thorndyke</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:description id="description">A detective investigates a potentially spurious will and the mysterious death of a man.</dc:description>
+		<dc:description id="description">A detective investigates a potentially spurious will and a man’s mysterious death.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The body of a man who died of an opium overdose is found, could his death be related to a possibly spurious will? &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. Thorndyke&lt;/a&gt; is called to investigate and see if he can link the two cases.&lt;/p&gt;
-			&lt;p&gt;The Mystery of 31, New Inn originally appeared as a novella and was later expanded into a novel published in 1912. Dr. Jervis, who the reader may have met in &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark"&gt;&lt;i&gt;The Red Thumbmark&lt;/i&gt;&lt;/a&gt; takes a prominent role in this book.&lt;/p&gt;
-			&lt;p&gt;This novel is the third in the long-running series of detective stories featuring Doctor Thorndyke.&lt;/p&gt;
+			&lt;p&gt;Dr. Jervis is summoned to the aid of a dying man, but on arrival, he finds the man already dead of an opium overdose. Could the man’s death be related to will that was abruptly, and recently, changed for no obvious reason? &lt;a href="https://standardebooks.org/collections/doctor-thorndyke"&gt;Dr. Thorndyke&lt;/a&gt; is called to investigate and see if he can link the two cases.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Mystery of 31, New Inn&lt;/i&gt; was written as a novella in 1905 and expanded into a novel in 1912. Dr. Jervis, a &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Watson-esque&lt;/a&gt; sidekick introduced in &lt;a href="https://standardebooks.org/ebooks/r-austin-freeman/the-red-thumbmark"&gt;&lt;i&gt;The Red Thumbmark&lt;/i&gt;&lt;/a&gt;, takes a prominent role.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/12187</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100218954</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">79088</meta>
+		<meta property="se:reading-ease.flesch">71.24</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-austin-freeman_the-mystery-of-31-new-inn</meta>
 		<dc:creator id="author">R. Austin Freeman</dc:creator>
 		<meta property="file-as" refines="#author">Freeman, R. Austin</meta>
@@ -68,8 +67,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._Austin_Freeman</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50026377</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Ernst Ludwig Kirchner</dc:contributor>
 		<meta property="file-as" refines="#artist">Kirchner, Ernst Ludwig</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ernst_Ludwig_Kirchner</meta>
@@ -93,6 +92,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
