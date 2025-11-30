@@ -92,9 +92,6 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
-		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
-		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
-		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
