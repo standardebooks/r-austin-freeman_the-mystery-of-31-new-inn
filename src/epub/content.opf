@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Mystery of 31, New Inn</dc:title>
 		<meta property="file-as" refines="#title">Mystery of 31, New Inn, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The Mystery of Thirty-One, New Inn</meta>
+		<meta property="dcterms:alternative" refines="#title">The Mystery of Thirty-One, New Inn</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">London (England) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Inheritance and succession -- Fiction</dc:subject>
